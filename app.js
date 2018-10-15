@@ -11,31 +11,41 @@ var dict = new Dictionary(app_id, app_key);
 fs.writeFile('definitions.txt', '');
 
 rl.on('line', function (line) {
-  rl.pause();
-  dict.find(line, function(error, data) {
-    if (error) {
-      return console.log(error);
-    }
+  // If the line does not denote a new section
+  if (!line.includes('Section')) {
+    // Pause the reader
+    rl.pause();
 
-    console.log(`Line from file: ${line}`);
-    console.log(data.results[0].lexicalEntries[0].entries[0].senses[0].definitions[0]);
-    fs.appendFile('definitions.txt', line + '- ' + data.results[0].lexicalEntries[0].entries[0].senses[0].definitions[0] + '\n', function (err) {
-      if (err) throw err;
+    // Search for the definition of the current line
+    dict.find(line, function(error, data) {
+      // Set the definition as blank in case no definition can be found
+      var def = '';
 
-      // Go to the next line
-      rl.resume();
+      // If there's an error with the definition search, log it
+      if (error) {
+        if (error != "No such entry found")
+          return console.log(error);
+      }
+      else {
+        // Otherwise, set the definition
+        def = data.results[0].lexicalEntries[0].entries[0].senses[0].definitions[0];
+      }
+
+      // Add the word and its definition to definitions.txt
+      fs.appendFile('definitions.txt', line + '- ' + def + '\n', function (err) {
+        // If there's an error adding the definition, log it
+        if (err) throw err;
+
+        // Go to the next line
+        rl.resume();
+      });
     });
-  });
+  }
+  // If it is a new section
+  else {
+    fs.appendFile('definitions.txt', line + '\n', function (err) {
+      // If there's an error adding the definition, log it
+      if (err) throw err;
+    });
+  }
 });
-
-function lookUpWord (word, callback) {
-  dict.find(word, function(error, data) {
-    if (error) {
-      return console.log(error);
-    }
-
-    console.log(data.results[0].lexicalEntries[0].entries[0].senses[0].definitions[0]);
-  });
-
-  if(callback) callback();
-}
