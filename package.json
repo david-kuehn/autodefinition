@@ -1,0 +1,16 @@
+{
+  "name": "autodefinitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lazy": "^1.0.11",
+    "line-by-line": "^0.1.6",
+    "oxford-dictionary-api": "^1.0.1"
+  }
+}
