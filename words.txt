@@ -36,3 +36,180 @@ firedrake
 sectarian
 deranged
 Section 4
+basalt
+gprge
+bluff
+pipsissewa
+piedmont
+madacam
+mastic
+Section 5
+skein
+coagulate
+provenance
+penitent
+cheroot
+obsidian
+meconium
+Section 6
+bracken
+emaciation
+lacquered
+stropping
+FIXrachiticFIX
+lepers
+ambush
+anointing
+evoke
+quoits
+changeling
+commune
+Section 7
+sapper
+viaduct
+embankment
+parsible
+entities
+idiom
+Section 8
+woad
+FIXrunicFIX
+motifs
+truncheon
+stile
+phalanx
+forge
+catamite
+horde
+sedge
+Section 9
+port-cochere
+privet
+chattel
+Section 10
+formica
+cistern
+hydraulic
+mendicant
+palimpsest
+intestate
+Section 11
+begonia
+hasp
+serrated
+corroded
+krugerrand
+Section 12
+footlocker
+laved
+sumptuous
+bonded-whiskey
+Section 13
+balustrade
+pall
+decoy
+rucksack
+Section 14
+bivouacked
+threadbare
+buddha
+secular
+gullied
+middens
+kudzu
+transit
+Section 15
+cairn
+patterans
+sundries
+notion
+dessicated
+culvert
+fey
+predicate
+caustic
+quadrant
+mattock
+bolus
+Section 16
+corrugate
+harrowtrough
+ledgerbook
+magnolia
+spire
+provision
+enroute
+jerry-jug
+slough
+serpentine
+verdigris
+Section 17
+palladian
+lintel
+myriad
+Section 18
+disinterred
+cholera
+desolation
+careen
+slag
+vigilant
+okra
+iodine
+tidewrack
+isocline
+sepulchre
+Section 19
+sheer-rail
+transom
+davit
+turnbuckle
+souwester
+humidor
+sextant
+baize
+windfall
+Section 20
+tendrils
+magnesium
+conjuring
+travois
+pruned
+Section 21
+commune
+FIXsheaveFIX
+cognate
+imponderable
+dolmen
+oracle
+moldering
+FIXsloeFIX
+lampblack
+entable
+FIXricketFIX
+congealing
+bollard
+gantry-cane
+suture
+Section 22
+lee
+askew
+armature
+FIXsloughedFIX
+incinerate
+crozzled
+ensepulchred
+tabernacle
+hagmoss
+counterspectacle
+hydroptic
+hydrangea
+isthmus
+prophet
+loess
+bandolier
+skirmish
+stoven
+wimpled
+torsional
+vermiculate

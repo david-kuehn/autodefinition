@@ -5,17 +5,17 @@ pilgrim- a person who journeys to a sacred place for religious reasons.
 flue- a duct for smoke and waste gases produced by a fire, a gas heater, a power station, or other fuel-burning installation
 translucent- (of a substance) allowing light, but not detailed shapes, to pass through; semi-transparent
 alabaster- a translucent form of gypsum or calcite, typically white, often carved into ornaments.
-decanting- 
-dreg- 
+decanting-
+dreg-
 Section 2
 gully- a ravine formed by the action of water.
 enshroud- envelop completely and hide from view
 mote- a tiny piece of a substance; a speck
 temporal- relating to worldly as opposed to spiritual affairs; secular
-gryke- 
+gryke-
 transom- the flat surface forming the stern of a boat.
 shoal- a large number of fish swimming together
-cauterized- 
+cauterized-
 autism- a developmental disorder of variable severity that is characterized by difficulty in social interaction and communication and by restricted or repetitive patterns of thought and behaviour.
 vestibular- relating to a vestibule, particularly that of the inner ear, or more generally to the sense of balance
 chronicle- a factual written account of important or historical events in the order of their occurrence
@@ -30,9 +30,186 @@ keel- the lengthwise timber or steel structure along the base of a ship, support
 fresco- a painting done rapidly in watercolour on wet plaster on a wall or ceiling, so that the colours penetrate the plaster and become fixed as it dries.
 breakfront- a piece of furniture having the line of its front broken by a curve or angle
 effigy- a sculpture or model of a person
-bogfolk- 
+bogfolk-
 discalced- denoting or belonging to one of several strict orders of Catholic friars or nuns who go barefoot or are shod only in sandals.
 firedrake- (in Germanic mythology) a dragon.
 sectarian- denoting or concerning a sect or sects
 deranged- mad; insane
 Section 4
+basalt- a dark fine-grained volcanic rock that sometimes displays a columnar structure, typically composed largely of plagioclase with pyroxene and olivine.
+gprge-
+bluff- an attempt to deceive someone into believing that one can or is going to do something
+pipsissewa- a North American plant of the wintergreen family, with whorled evergreen leaves.
+piedmont- a gentle slope leading from the foot of mountains to a region of flat land.
+madacam-
+mastic- an aromatic gum or resin that exudes from the bark of a Mediterranean tree, used in making varnish and chewing gum and as a flavouring
+Section 5
+skein- a length of thread or yarn, loosely coiled and knotted.
+coagulate- (of a fluid, especially blood) change to a solid or semi-solid state
+provenance- the place of origin or earliest known history of something
+penitent- feeling or showing sorrow and regret for having done wrong; repentant
+cheroot- a cigar with both ends open.
+obsidian- a hard, dark, glasslike volcanic rock formed by the rapid solidification of lava without crystallization.
+meconium- the dark green substance forming the first faeces of a newborn infant.
+Section 6
+bracken- a tall fern with coarse lobed fronds, which occurs worldwide and can cover large areas.
+emaciation- the state of being abnormally thin or weak
+lacquered-
+stropping-
+FIXrachiticFIX-
+lepers-
+ambush- a surprise attack by people lying in wait in a concealed position
+anointing-
+evoke- bring or recall (a feeling, memory, or image) to the conscious mind
+quoits-
+changeling- a child believed to have been secretly substituted by fairies for the parents' real child in infancy.
+commune- a group of people living together and sharing possessions and responsibilities
+Section 7
+sapper- a soldier responsible for tasks such as building and repairing roads and bridges, laying and clearing mines, etc.
+viaduct- a long bridge-like structure, typically a series of arches, carrying a road or railway across a valley or other low ground.
+embankment- a wall or bank of earth or stone built to prevent a river flooding an area
+parsible-
+entities-
+idiom- a group of words established by usage as having a meaning not deducible from those of the individual words (e.g. over the moon, see the light).
+Section 8
+woad- a yellow-flowered European plant of the cabbage family. It was formerly widely grown in Britain as a source of blue dye, which was extracted from the leaves after they had been dried, powdered, and fermented.
+FIXrunicFIX-
+motifs-
+truncheon- a short, thick stick carried as a weapon by a police officer.
+stile- an arrangement of steps that allows people but not animals to climb over a fence or wall.
+phalanx- a body of troops or police officers standing or moving in close formation
+forge- make or shape (a metal object) by heating it in a fire or furnace and hammering it
+catamite- a boy kept for homosexual practices.
+horde- a large group of people
+sedge- a grasslike plant with triangular stems and inconspicuous flowers, growing typically in wet ground. Sedges are widely distributed throughout temperate and cold regions.
+Section 9
+port-cochere-
+privet- a shrub of the olive family, with small white heavily scented flowers and poisonous black berries.
+chattel- (in general use) a personal possession.
+Section 10
+formica- a hard durable plastic laminate used for worktops, cupboard doors, and other surfaces
+cistern- a tank for storing water, especially one supplying taps or as part of a flushing toilet.
+hydraulic- denoting or relating to a liquid moving in a confined space under pressure
+mendicant- given to begging.
+palimpsest- a manuscript or piece of writing material on which later writing has been superimposed on effaced earlier writing.
+intestate- not having made a will before one dies
+Section 11
+begonia- a herbaceous plant of warm climates, the flowers of which have brightly coloured sepals but no petals. Numerous cultivars are grown for their flowers or striking foliage.
+hasp- a slotted hinged metal plate forming part of a fastening for a door or lid, fitted over a loop and secured by a pin or padlock
+serrated- having or denoting a jagged edge; sawlike
+corroded-
+krugerrand- a South African gold coin with a portrait of President Kruger on the obverse.
+Section 12
+footlocker- a small trunk or storage chest.
+laved-
+sumptuous- splendid and expensive-looking
+bonded-whiskey-
+Section 13
+balustrade- a railing supported by balusters, especially one forming an ornamental parapet to a balcony, bridge, or terrace.
+pall- a cloth spread over a coffin, hearse, or tomb.
+decoy- a bird or mammal, or an imitation of one, used by hunters to attract other birds or mammals
+rucksack- a bag with shoulder straps which allow it to be carried on someone's back, typically made of a strong, waterproof material and widely used by hikers.
+Section 14
+bivouacked-
+threadbare- (of cloth, clothing, or soft furnishings) becoming thin and tattered with age
+buddha- a title given to the founder of Buddhism, Siddartha Gautama (c.563–c.483 BC). Born a prince in what is now Nepal, he renounced wealth and family to become an ascetic, and after achieving enlightenment while meditating, taught all who came to learn from him.
+secular- not connected with religious or spiritual matters
+gullied-
+middens-
+kudzu- a quick-growing East Asian climbing plant with reddish-purple flowers, used as a fodder crop and for erosion control.
+transit- the carrying of people or things from one place to another
+Section 15
+cairn- a mound of rough stones built as a memorial or landmark, typically on a hilltop or skyline.
+patterans-
+sundries-
+notion- a conception of or belief about something
+dessicated-
+culvert- a tunnel carrying a stream or open drain under a road or railway.
+fey- giving an impression of vague unworldliness or mystery
+predicate- the part of a sentence or clause containing a verb and stating something about the subject (e.g. went home in John went home).
+caustic- able to burn or corrode organic tissue by chemical action
+quadrant- each of four quarters of a circle.
+mattock- an agricultural tool shaped like a pickaxe, with an adze and a chisel edge as the ends of the head.
+bolus- a small rounded mass of a substance, especially of chewed food at the moment of swallowing
+Section 16
+corrugate- contract or cause to contract into wrinkles or folds
+harrowtrough-
+ledgerbook-
+magnolia- a tree or shrub with large, typically creamy-pink or -white, waxy flowers.
+spire- a tapering conical or pyramidal structure on the top of a building, typically a church tower.
+provision- the action of providing or supplying something for use
+enroute-
+jerry-jug-
+slough- a swamp.
+serpentine- of or like a serpent or snake
+verdigris- a bright bluish-green encrustation or patina formed on copper or brass by atmospheric oxidation, consisting of basic copper carbonate.
+Section 17
+palladian- relating to or denoting the neoclassical style of Andrea Palladio, in particular with reference to the phase of English architecture from c.1715, when there was a revival of interest in Palladio and his English follower, Inigo Jones, and a reaction against the baroque.
+lintel- a horizontal support of timber, stone, concrete, or steel across the top of a door or window.
+myriad- a countless or extremely great number of people or things
+Section 18
+disinterred-
+cholera- an infectious and often fatal bacterial disease of the small intestine, typically contracted from infected water supplies and causing severe vomiting and diarrhoea.
+desolation- a state of complete emptiness or destruction
+careen- turn (a ship) on its side for cleaning, caulking, or repair.
+slag- stony waste matter separated from metals during the smelting or refining of ore
+vigilant- keeping careful watch for possible danger or difficulties
+okra- a plant of the mallow family with long ridged seed pods, native to the Old World tropics.
+iodine- the chemical element of atomic number 53, a non-metallic element forming black crystals and a violet vapour.
+tidewrack-
+isocline- a line on a diagram or map connecting points of equal gradient or inclination.
+sepulchre- a small room or monument, cut in rock or built of stone, in which a dead person is laid or buried.
+Section 19
+sheer-rail-
+transom- the flat surface forming the stern of a boat.
+davit- a small crane on board a ship, especially one of a pair for suspending or lowering a lifeboat.
+turnbuckle- a coupling with internal screw threads used to connect two rods, lengths of boat's rigging, etc. lengthwise or to regulate their length or tension.
+souwester-
+humidor- an airtight container for keeping cigars or tobacco moist.
+sextant- an instrument with a graduated arc of 60° and a sighting mechanism, used for measuring the angular distances between objects and especially for taking altitudes in navigation and surveying.
+baize- a coarse, typically green woollen material resembling felt, used for covering billiard and card tables.
+windfall- an apple or other fruit blown down from a tree or bush by the wind.
+Section 20
+tendrils-
+magnesium- the chemical element of atomic number 12, a silver-white metal of the alkaline earth series. It is used to make strong lightweight alloys, and is also used in flash bulbs and pyrotechnics, as it burns with a brilliant white flame.
+conjuring- the performance of tricks which are seemingly magical, typically involving sleight of hand
+travois- a type of sledge formerly used by North American Indians to carry goods, consisting of two joined poles pulled by a horse or dog.
+pruned-
+Section 21
+commune- a group of people living together and sharing possessions and responsibilities
+FIXsheaveFIX-
+cognate- (of a word) having the same linguistic derivation as another (e.g. English father, German Vater, Latin pater)
+imponderable- a factor that is difficult or impossible to estimate or assess
+dolmen- a megalithic tomb with a large flat stone laid on upright ones, found chiefly in Britain and France.
+oracle- a priest or priestess acting as a medium through whom advice or prophecy was sought from the gods in classical antiquity.
+moldering-
+FIXsloeFIX-
+lampblack- a black pigment made from soot.
+entable-
+FIXricketFIX-
+congealing-
+bollard- a short post used to prevent traffic from entering an area.
+gantry-cane-
+suture- a stitch or row of stitches holding together the edges of a wound or surgical incision
+Section 22
+lee- the sheltered side of something; the side away from the wind
+askew- not in a straight or level position
+armature- the rotating coil or coils of a dynamo or electric motor.
+FIXsloughedFIX-
+incinerate- destroy (something, especially waste material) by burning
+crozzled-
+ensepulchred-
+tabernacle- (in biblical use) a fixed or movable dwelling, typically of light construction.
+hagmoss-
+counterspectacle-
+hydroptic-
+hydrangea- a shrub or climbing plant with rounded or flattened flowering heads of small florets, native to Asia and America.
+isthmus- a narrow strip of land with sea on either side, forming a link between two larger areas of land.
+prophet- a person regarded as an inspired teacher or proclaimer of the will of God
+loess- a loosely compacted yellowish-grey deposit of wind-blown sediment of which extensive deposits occur e.g. in eastern China and the American Midwest.
+bandolier- a shoulder belt with loops or pockets for cartridges.
+skirmish- an episode of irregular or unpremeditated fighting, especially between small or outlying parts of armies or fleets
+stoven-
+wimpled-
+torsional-
+vermiculate-
